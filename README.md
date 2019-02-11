@@ -1,6 +1,4 @@
-# JS Classes, forEach(), map(), and filter()
-
-[Is this is how you felt at 12 today?](https://www.youtube.com/watch?v=LQCU36pkH7c)
+# JS forEach(), map(), and filter()
 
 
 ## `.forEach()` [read more here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
